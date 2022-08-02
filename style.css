@@ -1,0 +1,51 @@
+.tag {
+    width: 100%;
+    height: 100px;
+    margin-top: 0;
+    font-size: 25px;
+}
+
+#note {
+    font-size: 15px;
+    color: black;
+}
+
+.play_button {
+    width: 150px;
+    height: 50px;
+    font-size: 25px;
+}
+
+.img_disc_1 {
+    width: 150px;
+    height: 150.5px;
+    border-radius: 100%;
+}
+
+.disc_speed_div {
+float:left;
+}
+
+.speed_label {
+    font-size: 20px;
+}
+
+.disc_volume_div {
+    float: right;
+}
+
+.img_disc_2 {
+    width:150px;
+    height:150px;
+    border-radius:100%;
+}
+
+.volume_label {
+    font-size: 20px;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+    
+}
